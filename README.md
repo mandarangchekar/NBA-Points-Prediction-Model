@@ -1,5 +1,5 @@
 
-```markdown
+
 # NBA Points Prediction Model
 
 ## Overview
@@ -62,5 +62,5 @@ This notebook provides a comprehensive workflow for predicting NBA player points
 
 
 Thank you for exploring the NBA Points Prediction Model! I hope this tool provides valuable insights and predictive power for NBA player performance.
-```
+
 
